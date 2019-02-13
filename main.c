@@ -29,3 +29,4 @@ int main()
       printf("\n%d",*(a+i));
       return 0;
 }
+// the nair has commented...congrats
